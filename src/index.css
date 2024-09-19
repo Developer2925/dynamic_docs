@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gilroy {
+    font-family: "Gilroy-Regular";
+}
+.gilroy-m {
+    font-family: "Gilroy-Medium";
+}
+.gilroy-sb {
+    font-family: "Gilroy-Semibold";
+}
+.gilroy-b {
+    font-family: "Gilroy-Bold";
+}
+.gilroy-l {
+    font-family: "Gilroy-Light";
+}
+.gilroy-xl {
+    font-family: "Gilroy-Thin";
+}
+
+::selection {
+    color: #ffa052;
+}
